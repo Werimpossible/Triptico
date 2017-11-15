@@ -1,6 +1,19 @@
 # "TRIPTICO"
 * [Link del problema](https://lms.laboratoria.la/cohorts/cdmx-2017-10-bc-core-am/courses/interactive-site/00-html-and-css/10-guided-exercises)
 
+## Apuntes de how to solve it
+* Creacion de CSS de:
+
+    * Parrafos de cada tercios del triptico
+    * Una para el titulo
+    * Uno para el parrafo
+    * Aqui usaras tmb el inline.block
+
+### Imágenes:
+* Sera la ultima linea de tu bloque de HTML de cada tercio de triptico.
+* Para alinear en cada cara del trptico, usas display inline-block y margen (0, auto)
+* Margen a las imagenes.
+
 ## OPCIONES DE COMO RESOLVER PONER LAS 3 CAJAS PRINCIPALES:
 * Se pueden utilizar:
     ```
@@ -22,17 +35,3 @@
     ```
     * Es mas fácil de manejar, los bloques se acomodan automaticamente y solo debes de definir los paddings, margin y widths del triptico.
     ```
-
-## Apuntes de how to solve it
-* Creacion de CSS de:
-
-    * Parrafos de cada tercios del triptico
-    * Una para el titulo
-    * Uno para el parrafo
-    * Aqui usaras tmb el inline.block
-
-### Imágenes:
-* Sera la ultima linea de tu bloque de HTML de cada tercio de triptico.
-* Para alinear en cada cara del trptico, usas display inline-block y margen (0, auto)
-* Margen a las imagenes.
-
